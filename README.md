@@ -43,9 +43,9 @@ View grammar score and suggestions
 
 ## 📊 Sample Output
 
-Transcribed text: He go to school everyday and eat a apple.
-Grammar Score: 60.00/100
-Corrected Text: He goes to school every day and eats an apple.
+* Transcribed text: He go to school everyday and eat a apple.
+* Grammar Score: 60.00/100
+* Corrected Text: He goes to school every day and eats an apple.
 
 ## 📌 Future Improvements
 . Integrate Whisper for more accurate speech-to-text
@@ -57,3 +57,10 @@ Corrected Text: He goes to school every day and eats an apple.
 . Sentence-level scoring and visual error highlights
 
 . Handle multiple languages
+
+
+
+
+---
+
+Let me know if you want a shorter version, or if you’re planning to deploy this and want to include deployment instructions (like Colab or Streamlit link).
